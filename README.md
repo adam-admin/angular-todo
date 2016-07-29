@@ -1,4 +1,4 @@
-Angular Todo is an task management application built using MEAN stack.
+Angular Todo is a task management application built using MEAN stack.
 
 ## Features
 * **Adding a task**
